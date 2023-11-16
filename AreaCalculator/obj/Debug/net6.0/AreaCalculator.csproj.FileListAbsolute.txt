@@ -1,0 +1,12 @@
+C:\Users\amada\Desktop\C#\AreaCalculator\AreaCalculator\bin\Debug\net6.0\AreaCalculator.deps.json
+C:\Users\amada\Desktop\C#\AreaCalculator\AreaCalculator\bin\Debug\net6.0\AreaCalculator.dll
+C:\Users\amada\Desktop\C#\AreaCalculator\AreaCalculator\bin\Debug\net6.0\AreaCalculator.pdb
+C:\Users\amada\Desktop\C#\AreaCalculator\AreaCalculator\obj\Debug\net6.0\AreaCalculator.csproj.AssemblyReference.cache
+C:\Users\amada\Desktop\C#\AreaCalculator\AreaCalculator\obj\Debug\net6.0\AreaCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amada\Desktop\C#\AreaCalculator\AreaCalculator\obj\Debug\net6.0\AreaCalculator.AssemblyInfoInputs.cache
+C:\Users\amada\Desktop\C#\AreaCalculator\AreaCalculator\obj\Debug\net6.0\AreaCalculator.AssemblyInfo.cs
+C:\Users\amada\Desktop\C#\AreaCalculator\AreaCalculator\obj\Debug\net6.0\AreaCalculator.csproj.CoreCompileInputs.cache
+C:\Users\amada\Desktop\C#\AreaCalculator\AreaCalculator\obj\Debug\net6.0\AreaCalculator.dll
+C:\Users\amada\Desktop\C#\AreaCalculator\AreaCalculator\obj\Debug\net6.0\refint\AreaCalculator.dll
+C:\Users\amada\Desktop\C#\AreaCalculator\AreaCalculator\obj\Debug\net6.0\AreaCalculator.pdb
+C:\Users\amada\Desktop\C#\AreaCalculator\AreaCalculator\obj\Debug\net6.0\ref\AreaCalculator.dll
